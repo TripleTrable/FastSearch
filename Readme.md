@@ -1,6 +1,10 @@
 Fast file indexing and searchin
 ===============================
 
+Note:
+-----
+This code completly replaces the previous Windows only code.
+
 
 Current features:
 -----------------
@@ -13,3 +17,4 @@ Planned features:
 
 - File search
 - Full text search
+
